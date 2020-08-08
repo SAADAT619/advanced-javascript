@@ -15,4 +15,6 @@ const student = {name:"Saadat", phone:1212323};
 console.log(student.gf);
 // ---------------------------------------------------------------------
 
-// Example of null
+// Another example of undefiend
+ function doSomething(x, y){ console.log(y)};
+     doSomething(32);
